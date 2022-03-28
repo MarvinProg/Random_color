@@ -1,3 +1,3 @@
-# Random_color
+# Random color
 ___
 Приложение генерирует случайные цвета с помощью HTML, CSS и JS.
