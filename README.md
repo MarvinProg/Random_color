@@ -3,4 +3,5 @@ ___
 Приложение генерирует случайные цвета с помощью HTML, CSS и JS.
 
 # Скриншот
-(./img/Screenshot_1.png)
+
+![COLOR!](./img/Screenshot_1.png)
